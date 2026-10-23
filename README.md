@@ -100,5 +100,8 @@ Describes a Signum design issue, or provides general guidelines or information t
 | [49](./SIP/sip-49.md )       | Standard| SRC     | Liquidity Pool Contracts                           | Final|yes|
 | [50](./SIP/sip-50.md )       | Standard| SRC     | WebSocket API                           | Review|yes|
 | [51](./SIP/sip-51.md )       | Standard| Core     | Lending Commitment                         | Draft|no|
+| [53](./SIP/sip-53.md )       | Standard| Core     | Controllable transaction bundling for ATs  | Draft|no|
+| [54](./SIP/sip-54.md )       | Standard| Core     | Delete map entries in smart contracts      | Draft|no|
+| [55](./SIP/sip-55.md )       | Standard| Core     | Raise smart contract size limits           | Draft|no|
 
 
