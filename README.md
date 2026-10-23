@@ -103,5 +103,6 @@ Describes a Signum design issue, or provides general guidelines or information t
 | [53](./SIP/sip-53.md )       | Standard| Core     | Controllable transaction bundling for ATs  | Draft|no|
 | [54](./SIP/sip-54.md )       | Standard| Core     | Delete map entries in smart contracts      | Draft|no|
 | [55](./SIP/sip-55.md )       | Standard| Core     | Raise smart contract size limits           | Draft|no|
+| [56](./SIP/sip-56.md )       | Standard| Interface | Smart contract fee history                 | Draft|no|
 
 
