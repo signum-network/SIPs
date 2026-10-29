@@ -105,5 +105,6 @@ Describes a Signum design issue, or provides general guidelines or information t
 | [55](./SIP/sip-55.md )       | Standard| Core     | Raise smart contract size limits           | Draft|no|
 | [56](./SIP/sip-56.md )       | Standard| Interface | Smart contract fee history                 | Draft|no|
 | [57](./SIP/sip-57.md )       | Standard| Core     | Reject payments to dead smart contracts    | Draft|no|
+| [59](./SIP/sip-59.md )       | Standard| Core     | Get own AT ID                              | Draft|no|
 
 
