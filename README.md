@@ -107,5 +107,6 @@ Describes a Signum design issue, or provides general guidelines or information t
 | [57](./SIP/sip-57.md )       | Standard| Core     | Reject payments to dead smart contracts    | Draft|no|
 | [58](./SIP/sip-58.md )       | Standard| Core     | SHA256 over AT memory ranges               | Draft|no|
 | [59](./SIP/sip-59.md )       | Standard| Core     | Get own AT ID                              | Draft|no|
+| [60](./SIP/sip-60.md )       | Standard| Core     | Transferable smart contract ownership      | Draft|no|
 
 
