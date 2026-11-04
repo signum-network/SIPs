@@ -109,5 +109,6 @@ Describes a Signum design issue, or provides general guidelines or information t
 | [59](./SIP/sip-59.md )       | Standard| Core     | Get own AT ID                              | Draft|no|
 | [60](./SIP/sip-60.md )       | Standard| Core     | Transferable smart contract ownership      | Draft|no|
 | [61](./SIP/sip-61.md )       | Standard| Core     | Smart contract alarm                       | Draft|no|
+| [62](./SIP/sip-62.md )       | Standard| Core     | Strong random numbers for smart contracts  | Draft|no|
 
 
